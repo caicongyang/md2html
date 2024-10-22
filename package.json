@@ -1,0 +1,21 @@
+{
+  "name": "md2html",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --debug",
+    "build": "vite build --debug",
+    "preview": "vite preview --debug"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "element-plus": "^2.3.14",
+    "marked": "^9.0.3",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "vite": "^5.4.9",
+    "@vitejs/plugin-vue": "^4.2.3"
+  }
+}
